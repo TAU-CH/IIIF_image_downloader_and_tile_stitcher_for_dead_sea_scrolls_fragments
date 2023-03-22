@@ -1,3 +1,5 @@
+This repository has been developed with the help of **[Bronson Brown deVost](https://github.com/Bronson-Brown-deVost)** and his project **[iiif_image_load](https://github.com/Bronson-Brown-deVost/iiif_image_load)**. 
+
 # Download IIIF Image as Tiles and Stitch the Tiles
 
 This notebook provides a script that enables you to download full images from an IIIF server. Using an image identifier, the script queries the server and downloads the individual tiles which are then stitched together to form the full image. This is because an IIIF server does not allow downloading images greater than 1000 x 1000 pixels. 
