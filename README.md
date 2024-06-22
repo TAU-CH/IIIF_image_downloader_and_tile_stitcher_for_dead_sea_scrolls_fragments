@@ -1,4 +1,4 @@
-This repository has been developed with the help of **[Bronson Brown deVost](https://github.com/Bronson-Brown-deVost)** and his project **[iiif_image_load](https://github.com/Bronson-Brown-deVost/iiif_image_load)**. 
+This repository has been developed with the help of **[Bronson Brown-deVost](https://github.com/Bronson-Brown-deVost)** and his project **[iiif_image_load](https://github.com/Bronson-Brown-deVost/iiif_image_load)**. 
 
 # Download IIIF Image as Tiles and Stitch the Tiles
 
@@ -16,4 +16,4 @@ To download the fragment images for a given manuscript, first, we fetch the frag
 
 ## Project Details
 
-In this project, we provide a list of manuscript names and their identifiers (https://www.dropbox.com/s/2n2ozr9xrqd68kk/letter_detection_dataset_manuscripts.xlsx?dl=0). These manuscripts are dated internally and can be used as ground truth for manuscript dating problems. We have also shared the interested fragment image identifiers (https://github.com/beratkurar/hebrew_letter_detection/blob/main/fragment_identifiers.csv) that we gathered from the manifests (https://dss.digitalbibleonline.org/manifests/all/).
+In this project, we provide a list of manuscript names and their identifiers (https://www.dropbox.com/s/2n2ozr9xrqd68kk/letter_detection_dataset_manuscripts.xlsx?dl=0). These manuscripts are dated internally and can be used as ground truth for manuscript dating problems. We have also shared the interested fragment image identifiers (https://github.com/TAU-CH/IIIF_image_downloader_and_tile_stitcher_for_dead_sea_scrolls_fragments/blob/main/fragment_identifiers.csv) that we gathered from the manifests (https://dss.digitalbibleonline.org/manifests/all/).
